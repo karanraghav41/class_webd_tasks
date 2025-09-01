@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#first{
+   border: 2px solid black;
+   padding: 20px;
+}
+#first h2{
+    text-align: center;
+    font-size: 45px;
+
+}
+p{
+    font-size: 25px;
+}
+a +a {
+    border-left: 2px solid black;
+    color: blueviolet;
+    padding: 5px ;
+    margin: 10px;
+    font-size: 15px;
+}
+#first a{
+       text-decoration: none;
+}
+#second :hover{
+    color:aquamarine
+}  
