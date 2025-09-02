@@ -1,0 +1,19 @@
+#container{
+    border: 2px solid black;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10%;
+    background-color: pink;
+    position: fixed ;
+    top: 30%;
+    left: 30%;
+
+
+}
+button{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    color: red;
+}
